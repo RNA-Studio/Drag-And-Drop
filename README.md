@@ -1,4 +1,4 @@
-# Drag-And-Drop vanilla JavaScript
+# Drag-And-Drop Vanilla JavaScript
 Drag and drop of sortable elements using vanilla Javascript
 
 To see the video tutorial (French) click the link below :
